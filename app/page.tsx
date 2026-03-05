@@ -32,7 +32,7 @@ export default function Home() {
         <h1 className="text-5xl font-black tracking-tight text-slate-900 mb-4 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
         Hediye Bulucu AI
         </h1>
-          <p className="text-slate-600">Yapay zeka asistanın senin için en mantıklı hediyeleri bulur ve linklerini hazırlar.</p>
+          <p className="text-slate-600">Yapay zeka asistanın senin için hediyeleri bulur ve linklerini hazırlar. Bir dene bakalım...</p>
         </div>
 
         {/* Search Box */}
