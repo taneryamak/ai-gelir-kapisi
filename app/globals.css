@@ -1,4 +1,10 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Tailwind'e 'sans' fontu olarak Montserrat kullanmasını söylüyoruz */
+  --font-sans: "Montserrat", sans-serif;
+}
 
 :root {
   --background: #ffffff;
